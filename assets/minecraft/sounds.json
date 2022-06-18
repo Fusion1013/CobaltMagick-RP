@@ -179,7 +179,7 @@
   },
   "cobalt.ai_engine_up":{
     "sounds":[
-      "cobalt/ai/AI_engine_up"
+      "cobalt/ai/ai_engine_up"
     ],
     "category": "player"
   }
