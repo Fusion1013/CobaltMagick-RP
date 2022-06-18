@@ -176,5 +176,11 @@
       }
     ],
     "category": "player"
+  },
+  "cobalt.ai_engine_up":{
+    "sounds":[
+      "cobalt/ai/AI_engine_up"
+    ],
+    "category": "player"
   }
 }
