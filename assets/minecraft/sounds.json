@@ -1228,7 +1228,6 @@
     ],
     "category": "player"
   },
-<<<<<<< HEAD
   "magic.ghost_breath": {
     "sounds": [
       "magic:halloween/ghost_breath"
@@ -1256,11 +1255,12 @@
   "magic.werewolf": {
     "sounds": [
       "magic:halloween/werewolf"
-=======
+    ],
+    "category": "player"
+  },
   "cobalt.ai_engine_up":{
     "sounds":[
       "cobalt/ai/ai_engine_up"
->>>>>>> main
     ],
     "category": "player"
   }
