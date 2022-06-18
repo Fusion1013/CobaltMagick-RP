@@ -1,0 +1,34 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/written_book"
+    },"overrides":[
+{"predicate":{"custom_model_data":0},"model":"item/written_book"},
+{"predicate":{"custom_model_data":1},"model":"cobalt/other/books/book1"},
+{"predicate":{"custom_model_data":2},"model":"cobalt/other/books/book2"},
+{"predicate":{"custom_model_data":3},"model":"cobalt/other/books/book3"},
+{"predicate":{"custom_model_data":4},"model":"cobalt/other/books/book4"},
+{"predicate":{"custom_model_data":5},"model":"cobalt/other/books/book5"},
+{"predicate":{"custom_model_data":6},"model":"cobalt/other/books/book6"},
+{"predicate":{"custom_model_data":7},"model":"cobalt/other/books/book7"},
+{"predicate":{"custom_model_data":8},"model":"cobalt/other/books/book8"},
+{"predicate":{"custom_model_data":9},"model":"cobalt/other/books/book9"},
+{"predicate":{"custom_model_data":10},"model":"cobalt/other/books/book10"},
+{"predicate":{"custom_model_data":11},"model":"cobalt/other/books/book11"},
+{"predicate":{"custom_model_data":12},"model":"cobalt/other/books/book12"},
+{"predicate":{"custom_model_data":13},"model":"cobalt/other/books/book13"},
+{"predicate":{"custom_model_data":14},"model":"cobalt/other/books/book14"},
+{"predicate":{"custom_model_data":15},"model":"cobalt/other/books/book15"},
+{"predicate":{"custom_model_data":16},"model":"cobalt/other/books/book16"},
+{"predicate":{"custom_model_data":17},"model":"cobalt/other/books/book17"},
+{"predicate":{"custom_model_data":18},"model":"cobalt/other/books/book18"},
+{"predicate":{"custom_model_data":19},"model":"cobalt/other/books/book19"},
+{"predicate":{"custom_model_data":20},"model":"cobalt/other/books/book20"},
+{"predicate":{"custom_model_data":21},"model":"cobalt/other/books/book21"},
+{"predicate":{"custom_model_data":22},"model":"cobalt/other/books/book22"},
+{"predicate":{"custom_model_data":23},"model":"cobalt/other/books/book23"},
+{"predicate":{"custom_model_data":24},"model":"cobalt/other/books/book24"},
+{"predicate":{"custom_model_data":25},"model":"cobalt/other/books/book25"},
+{"predicate":{"custom_model_data":26},"model":"cobalt/other/books/book26"},
+{"predicate":{"custom_model_data":27},"model":"cobalt/other/books/book27"}
+]}

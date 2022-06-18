@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+
+  "overrides": [
+    { "predicate": {"custom_model_data": 0}, "model": "item/leather_horse_armor"},
+
+	{ "predicate": {"custom_model_data": 1}, "model": "wand/ocarina"},
+
+    { "predicate": {"custom_model_data": 1110}, "model": "cobalt/wand/crystal_short_one_0"},
+    { "predicate": {"custom_model_data": 1120}, "model": "cobalt/wand/crystal_short_two_0"},
+    { "predicate": {"custom_model_data": 1130}, "model": "cobalt/wand/crystal_short_three_0"},
+
+    { "predicate": {"custom_model_data": 1210}, "model": "cobalt/wand/crystal_medium_one_0"},
+    { "predicate": {"custom_model_data": 1220}, "model": "cobalt/wand/crystal_medium_two_0"},
+    { "predicate": {"custom_model_data": 1230}, "model": "cobalt/wand/crystal_medium_three_0"},
+
+    { "predicate": {"custom_model_data": 1310}, "model": "cobalt/wand/crystal_long_one_0"},
+    { "predicate": {"custom_model_data": 1320}, "model": "cobalt/wand/crystal_long_two_0"},
+    { "predicate": {"custom_model_data": 1330}, "model": "cobalt/wand/crystal_long_three_0"},
+
+    { "predicate": {"custom_model_data": 2110}, "model": "cobalt/wand/nocrystal_short_one_0"},
+    { "predicate": {"custom_model_data": 2120}, "model": "cobalt/wand/nocrystal_short_two_0"},
+    { "predicate": {"custom_model_data": 2130}, "model": "cobalt/wand/nocrystal_short_three_0"},
+
+    { "predicate": {"custom_model_data": 2210}, "model": "cobalt/wand/nocrystal_medium_one_0"},
+    { "predicate": {"custom_model_data": 2211}, "model": "cobalt/wand/nocrystal_medium_one_1"},
+    { "predicate": {"custom_model_data": 2220}, "model": "cobalt/wand/nocrystal_medium_two_0"},
+    { "predicate": {"custom_model_data": 2230}, "model": "cobalt/wand/nocrystal_medium_three_0"},
+
+    { "predicate": {"custom_model_data": 2310}, "model": "cobalt/wand/nocrystal_long_one_0"},
+    { "predicate": {"custom_model_data": 2320}, "model": "cobalt/wand/nocrystal_long_two_0"},
+    { "predicate": {"custom_model_data": 2330}, "model": "cobalt/wand/nocrystal_long_three_0"}
+  ]
+}

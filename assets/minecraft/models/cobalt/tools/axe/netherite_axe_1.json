@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "cobalt/tools/axe/netherite_axe_1"
+    }
+}

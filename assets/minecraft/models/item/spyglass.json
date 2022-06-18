@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/spyglass"
+    },"overrides":[
+{"predicate":{"custom_model_data":0},"model":"item/spyglass"},
+{"predicate":{"custom_model_data":1},"model":"cobalt/tools/dreamglass"}
+]}

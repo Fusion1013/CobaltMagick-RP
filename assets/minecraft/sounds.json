@@ -1,0 +1,180 @@
+{
+  "music_disc.11": {
+		"replace": true,
+    "sounds": [
+      {
+        "name": "cobalt/records/11",
+        "stream": true,
+				"weight": 10
+      },
+			{
+        "name": "cobalt/tracks/megalovania",
+        "stream": true
+      }
+    ]
+  },
+  "cobalt.akali": {
+    "sounds": [
+      "cobalt/tracks/akali"
+    ],
+    "category": "music"
+  },
+  "cobalt.ancient_getaway": {
+    "sounds": [
+      "cobalt/tracks/ancient_getaway"
+    ]
+  },
+  "cobalt.era_of_peace": {
+    "sounds": [
+      "cobalt/tracks/era_of_peace"
+    ]
+  },
+  "cobalt.outpost": {
+    "sounds": [
+      "cobalt/tracks/outpost"
+    ]
+  },
+  "cobalt.shooting_for_the_stars": {
+    "sounds": [
+      "cobalt/tracks/shooting_for_the_stars"
+    ]
+  },
+  "cobalt.hydroangea": {
+    "sounds": [
+      "cobalt/tracks/hydroangea"
+    ]
+  },
+  "cobalt.only_the_beginning": {
+    "sounds": [
+      "cobalt/tracks/only_the_beginning"
+    ]
+  },
+  "cobalt.eternal_halls": {
+    "sounds": [
+      "cobalt/tracks/echoes/eternal_halls"
+    ]
+  },
+  "cobalt.brain": {
+    "sounds":[
+      "cobalt/effects/brain1",
+      "cobalt/effects/brain2",
+      "cobalt/effects/brain3",
+      "cobalt/effects/brain4"
+    ],
+    "category": "player"
+  },
+  "cobalt.chant":{
+    "sounds":[
+      "cobalt/effects/chant1",
+      "cobalt/effects/chant2",
+      "cobalt/effects/chant3"
+    ],
+    "category": "player"
+  },
+  "cobalt.coins":{
+    "sounds":[
+      "cobalt/effects/coins"
+    ],
+    "category": "player"
+  },
+  "cobalt.heartbeat":{
+    "sounds":[
+      "cobalt/effects/heartbeat"
+    ],
+    "category": "player"
+  },
+  "cobalt.infuser":{
+    "sounds":[
+      "cobalt/effects/infuser"
+    ],
+    "category": "player"
+  },
+  "cobalt.infuserstart":{
+    "sounds":[
+      "cobalt/effects/infuserstart"
+    ],
+    "category": "player"
+  },
+  "cobalt.monolith":{
+    "sounds":[
+      "cobalt/effects/monolith"
+    ],
+    "category": "player"
+  },
+  "cobalt.poof":{
+    "sounds":[
+      "cobalt/effects/poof1",
+      "cobalt/effects/poof2"
+    ],
+    "category": "player"
+  },
+  "cobalt.scan":{
+    "sounds":[
+      "cobalt/effects/scan"
+    ],
+    "category": "player"
+  },
+  "cobalt.perk_seal":{
+    "sounds":[
+      "cobalt/effects/perk_seal_1",
+      "cobalt/effects/perk_seal_2"
+    ],
+    "category": "player"
+  },
+  "cobalt.perk_unlock":{
+    "sounds":[
+      "cobalt/effects/perk_unlock_1",
+      "cobalt/effects/perk_unlock_2"
+    ],
+    "category": "player"
+  },
+  "cobalt.perk_unseal":{
+    "sounds":[
+      {
+        "name": "cobalt/effects/perk_unseal_1",
+        "stream": false
+      },
+      {
+        "name": "cobalt/effects/perk_unseal_2",
+        "stream": false
+      }
+    ],
+    "category": "player"
+  },
+  "cobalt.shimmer": {
+    "sounds": [
+      {
+        "name": "cobalt/effects/shimmer1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "cobalt/effects/shimmer1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "cobalt/effects/shimmer1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "cobalt/effects/shimmer1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "cobalt/effects/shimmer1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  }
+}

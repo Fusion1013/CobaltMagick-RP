@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_axe"
+    },
+    "overrides": [
+		{"predicate": {"custom_model_data": 0}, "model":"item/netherite_axe"},
+		{"predicate": {"custom_model_data": 1}, "model": "cobalt/tools/axe/netherite_axe_1"},
+		{"predicate": {"custom_model_data": 2}, "model": "cobalt/tools/axe/netherite_axe_2"},
+		{"predicate": {"custom_model_data": 3}, "model": "cobalt/tools/axe/netherite_axe_3"},
+		{"predicate": {"custom_model_data": 4}, "model": "cobalt/tools/axe/netherite_axe_4"},
+		{"predicate": {"custom_model_data": 5}, "model": "cobalt/tools/axe/netherite_axe_5"}
+    ]
+}
