@@ -1,26 +1,8 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "item/enchanted_book"
-  },
-  "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 0
-      },
-      "model": "item/enchanted_book"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1001
-      },
-      "model": "cobalt/tools/echo_totem"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 18001
-      },
-      "model": "magic:wands/enchantedbook"
-    }
-  ]
-}
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/enchanted_book"
+    },"overrides":[
+	{"predicate":{"custom_model_data":0},"model":"item/enchanted_book"},
+	{"predicate":{"custom_model_data":1001},"model":"cobalt/tools/echo_totem"}
+]}
