@@ -177,9 +177,93 @@
     ],
     "category": "player"
   },
+  "cobalt.big_start":{
+    "sounds":[
+      "cobalt/effects/big_start"
+    ],
+    "category": "player"
+  },
+  "cobalt.teleporter_on":{
+    "sounds":[
+      "cobalt/effects/teleporter_on"
+    ],
+    "category": "player"
+  },
+  "cobalt.computers_on":{
+    "sounds":[
+      "cobalt/effects/computers_on_sfx"
+    ],
+    "category": "player"
+  },
+  "cobalt.generator_on":{
+    "sounds":[
+      "cobalt/effects/generator_on_sfx"
+    ],
+    "category": "player"
+  },
+  "cobalt.hydrolics_on":{
+    "sounds":[
+      "cobalt/effects/hydrolics_on_sfx"
+    ],
+    "category": "player"
+  },
+  "cobalt.pulse":{
+    "sounds":[
+      "cobalt/effects/pulse_2"
+    ],
+    "category": "player"
+  },
+  "cobalt.end_cin_sfx":{
+    "sounds":[
+      "cobalt/effects/end_cin_sfx"
+    ],
+    "category": "player"
+  },
+  "cobalt.power_up":{
+    "sounds":[
+      "cobalt/effects/power_up"
+    ],
+    "category": "player"
+  },
   "cobalt.ai_engine_up":{
     "sounds":[
       "cobalt/ai/ai_engine_up"
+    ],
+    "category": "player"
+  },
+  "cobalt.ai_engine_down":{
+    "sounds":[
+      "cobalt/ai/ai_engine_down"
+    ],
+    "category": "player"
+  },
+  "cobalt.ai_telemetry_on":{
+    "sounds":[
+      "cobalt/ai/ai_telemetry_on"
+    ],
+    "category": "player"
+  },
+  "cobalt.ai_computer_on":{
+    "sounds":[
+      "cobalt/ai/ai_computer_on"
+    ],
+    "category": "player"
+  },
+  "cobalt.ai_hydrolics_on":{
+    "sounds":[
+      "cobalt/ai/ai_hydrolics_on"
+    ],
+    "category": "player"
+  },
+  "cobalt.ai_auxilery_on":{
+    "sounds":[
+      "cobalt/ai/ai_auxilery_on"
+    ],
+    "category": "player"
+  },
+  "cobalt.ai_power_down":{
+    "sounds":[
+      "cobalt/ai/ai_power_down"
     ],
     "category": "player"
   }
