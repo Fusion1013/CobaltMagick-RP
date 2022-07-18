@@ -1,0 +1,27 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/potion_overlay",
+      "layer1": "minecraft:item/potion"
+    },
+  
+    "overrides": [
+      {"predicate":{"custom_model_data":1},"model":"cobalt/potions/bottle_filled_1"},
+      {"predicate":{"custom_model_data":2},"model":"cobalt/potions/bottle_filled_2"},
+      {"predicate":{"custom_model_data":3},"model":"cobalt/potions/bottle_filled_3"},
+      {"predicate":{"custom_model_data":4},"model":"cobalt/potions/flask_filled"},
+      {"predicate":{"custom_model_data":5},"model":"cobalt/potions/jar_filled"},
+      {"predicate":{"custom_model_data":6},"model":"cobalt/potions/labeled_bottle_filled"},
+      {"predicate":{"custom_model_data":7},"model":"cobalt/potions/martini_glass_filled"},
+      {"predicate":{"custom_model_data":8},"model":"cobalt/potions/perfume_bottle_filled"},
+      {"predicate":{"custom_model_data":9},"model":"cobalt/potions/rocks_glass_filled"},
+      {"predicate":{"custom_model_data":10},"model":"cobalt/potions/rocks_glass_filled_2"},
+      {"predicate":{"custom_model_data":11},"model":"cobalt/potions/round_bottle_filled"},
+      {"predicate":{"custom_model_data":12},"model":"cobalt/potions/shot_glass_filled"},
+      {"predicate":{"custom_model_data":13},"model":"cobalt/potions/skull_bottle_filled"},
+      {"predicate":{"custom_model_data":14},"model":"cobalt/potions/triangle_bottle_filled"},
+      {"predicate":{"custom_model_data":15},"model":"cobalt/potions/wine_glass_filled"},
+      {"predicate":{"custom_model_data":16},"model":"cobalt/potions/champagne_glass_filled"},
+      {"predicate":{"custom_model_data":17},"model":"cobalt/potions/diamond_bottle_filled"}
+    ]
+  }

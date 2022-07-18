@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobalt/potions/flask_overlay",
+    "layer1": "cobalt/potions/empty_flask"
+  }
+}
