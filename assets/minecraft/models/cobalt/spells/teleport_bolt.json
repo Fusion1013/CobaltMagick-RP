@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "cobalt/spells/teleport_bolt"
+    "layer0": "cobalt/spells/spell_frame_projectile",
+    "layer1": "cobalt/spells/teleport_bolt"
   }
 }

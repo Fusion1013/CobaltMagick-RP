@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "cobalt/spells/kantele_d"
+    "layer0": "cobalt/spells/spell_frame_other",
+    "layer1": "cobalt/spells/kantele_d"
   }
 }

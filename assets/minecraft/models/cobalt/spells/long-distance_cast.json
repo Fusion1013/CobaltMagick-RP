@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "cobalt/spells/long-distance_cast"
+    "layer0": "cobalt/spells/spell_frame_utility",
+    "layer1": "cobalt/spells/long-distance_cast"
   }
 }
