@@ -3,53 +3,294 @@
   "textures": {
     "layer0": "minecraft:item/emerald"
   },
-
   "overrides": [
-    {"predicate":{"custom_model_data":0},"model":"item/emerald"},
-    {"predicate":{"custom_model_data":1},"model":"cobalt/materials/dungeon_coin"},
-    {"predicate":{"custom_model_data":2},"model":"cobalt/materials/dungeon_key"},
-    {"predicate":{"custom_model_data":3},"model":"cobalt/materials/crystal_key"},
-    {"predicate":{"custom_model_data":4},"model":"cobalt/materials/lens"},
-    {"predicate":{"custom_model_data":5},"model":"cobalt/materials/dragonstone"},
-    {"predicate":{"custom_model_data":6},"model":"cobalt/materials/mana_diamond"},
-    {"predicate":{"custom_model_data":7},"model":"cobalt/materials/mana_pearl"},
-    {"predicate":{"custom_model_data":8},"model":"cobalt/materials/mana_powder"},
-    {"predicate":{"custom_model_data":9},"model":"cobalt/materials/rainbow_rod"},
-    {"predicate":{"custom_model_data":10},"model":"cobalt/materials/aquamarine"},
-    {"predicate":{"custom_model_data":11},"model":"cobalt/materials/rusty_key"},
-    {"predicate":{"custom_model_data":12},"model":"cobalt/materials/red_key"},
-    {"predicate":{"custom_model_data":13},"model":"cobalt/materials/green_key"},
-    {"predicate":{"custom_model_data":14},"model":"cobalt/materials/blue_key"},
-    {"predicate":{"custom_model_data":15},"model":"cobalt/materials/broken_wand"},
-
-    {"predicate":{"custom_model_data":16},"model":"cobalt/materials/ingot/ardite_ingot"},
-    {"predicate":{"custom_model_data":17},"model":"cobalt/materials/ingot/ardite_nugget"},
-    {"predicate":{"custom_model_data":18},"model":"cobalt/materials/ingot/cobalt_ingot"},
-    {"predicate":{"custom_model_data":19},"model":"cobalt/materials/ingot/cobalt_nugget"},
-    {"predicate":{"custom_model_data":20},"model":"cobalt/materials/ingot/hepatizon_ingot"},
-    {"predicate":{"custom_model_data":21},"model":"cobalt/materials/ingot/hepatizon_nugget"},
-    {"predicate":{"custom_model_data":22},"model":"cobalt/materials/ingot/hollow_ingot"},
-    {"predicate":{"custom_model_data":23},"model":"cobalt/materials/ingot/hollow_nugget"},
-    {"predicate":{"custom_model_data":24},"model":"cobalt/materials/ingot/knightslime_ingot"},
-    {"predicate":{"custom_model_data":25},"model":"cobalt/materials/ingot/knightslime_nugget"},
-    {"predicate":{"custom_model_data":26},"model":"cobalt/materials/ingot/manyullyn_ingot"},
-    {"predicate":{"custom_model_data":27},"model":"cobalt/materials/ingot/manyullyn_nugget"},
-    {"predicate":{"custom_model_data":28},"model":"cobalt/materials/ingot/pigiron_ingot"},
-    {"predicate":{"custom_model_data":29},"model":"cobalt/materials/ingot/pigiron_nugget"},
-    {"predicate":{"custom_model_data":30},"model":"cobalt/materials/ingot/queens_slime_ingot"},
-    {"predicate":{"custom_model_data":31},"model":"cobalt/materials/ingot/queens_slime_nugget"},
-    {"predicate":{"custom_model_data":32},"model":"cobalt/materials/ingot/rose_gold_ingot"},
-    {"predicate":{"custom_model_data":33},"model":"cobalt/materials/ingot/rose_gold_nugget"},
-    {"predicate":{"custom_model_data":34},"model":"cobalt/materials/ingot/slimesteel_ingot"},
-    {"predicate":{"custom_model_data":35},"model":"cobalt/materials/ingot/slimesteel_nugget"},
-    {"predicate":{"custom_model_data":36},"model":"cobalt/materials/ingot/soulsteel_ingot"},
-    {"predicate":{"custom_model_data":37},"model":"cobalt/materials/ingot/soulsteel_nugget"},
-    {"predicate":{"custom_model_data":38},"model":"cobalt/materials/ingot/tinkers_bronze_ingot"},
-    {"predicate":{"custom_model_data":39},"model":"cobalt/materials/ingot/tinkers_bronze_nugget"},
-    {"predicate":{"custom_model_data":40},"model":"cobalt/materials/ingot/echo_ingot"},
-    {"predicate":{"custom_model_data":41},"model":"cobalt/materials/shiny_orb"},
-    {"predicate":{"custom_model_data":42},"model":"cobalt/materials/crystal_shards"},
-    {"predicate":{"custom_model_data":43},"model":"cobalt/materials/eternal_crystal"},
-    {"predicate":{"custom_model_data":44},"model":"cobalt/materials/throneseeker_totem"}
+    {
+      "predicate": {
+        "custom_model_data": 0
+      },
+      "model": "item/emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "cobalt/materials/dungeon_coin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "cobalt/materials/dungeon_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "cobalt/materials/crystal_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "cobalt/materials/lens"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "cobalt/materials/dragonstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "cobalt/materials/mana_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "cobalt/materials/mana_pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "cobalt/materials/mana_powder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "cobalt/materials/rainbow_rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "cobalt/materials/aquamarine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "cobalt/materials/rusty_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "cobalt/materials/red_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "cobalt/materials/green_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "cobalt/materials/blue_key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "cobalt/materials/broken_wand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "cobalt/materials/ingot/ardite_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "cobalt/materials/ingot/ardite_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "cobalt/materials/ingot/cobalt_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "cobalt/materials/ingot/cobalt_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "cobalt/materials/ingot/hepatizon_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "cobalt/materials/ingot/hepatizon_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "cobalt/materials/ingot/hollow_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "cobalt/materials/ingot/hollow_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "cobalt/materials/ingot/knightslime_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "cobalt/materials/ingot/knightslime_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "cobalt/materials/ingot/manyullyn_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "cobalt/materials/ingot/manyullyn_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "cobalt/materials/ingot/pigiron_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "cobalt/materials/ingot/pigiron_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "cobalt/materials/ingot/queens_slime_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "cobalt/materials/ingot/queens_slime_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "cobalt/materials/ingot/rose_gold_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "cobalt/materials/ingot/rose_gold_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "cobalt/materials/ingot/slimesteel_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "cobalt/materials/ingot/slimesteel_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "cobalt/materials/ingot/soulsteel_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "cobalt/materials/ingot/soulsteel_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "cobalt/materials/ingot/tinkers_bronze_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "cobalt/materials/ingot/tinkers_bronze_nugget"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "cobalt/materials/ingot/echo_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "cobalt/materials/shiny_orb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "cobalt/materials/crystal_shards"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "cobalt/materials/eternal_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "cobalt/materials/throneseeker_totem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18001
+      },
+      "model": "magic:wands/crystalball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18002
+      },
+      "model": "magic:icons/spells/shuriken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18003
+      },
+      "model": "magic:icons_disabled/spells/shuriken"
+    }
   ]
 }

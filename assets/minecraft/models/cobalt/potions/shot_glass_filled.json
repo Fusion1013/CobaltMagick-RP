@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobalt/potions/shot_glass_overlay",
+    "layer1": "cobalt/potions/empty_shot_glass"
+  }
+}

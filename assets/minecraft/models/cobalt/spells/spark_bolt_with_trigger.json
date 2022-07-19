@@ -1,6 +1,8 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "cobalt/spells/spark_bolt_with_trigger"
+    "layer0": "cobalt/spells/spell_frame_projectile",
+    "layer1": "cobalt/spells/spark_bolt",
+    "layer2": "cobalt/spells/spell_frame_trigger"
   }
 }

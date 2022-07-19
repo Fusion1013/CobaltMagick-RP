@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "cobalt/spells/circle_of_thunder"
+    "layer0": "cobalt/potions/empty_triangle_bottle"
   }
 }

@@ -1,13 +1,13 @@
 {
   "music_disc.11": {
-		"replace": true,
+    "replace": true,
     "sounds": [
       {
         "name": "cobalt/records/11",
         "stream": true,
-				"weight": 10
+        "weight": 10
       },
-			{
+      {
         "name": "cobalt/tracks/megalovania",
         "stream": true
       }
@@ -55,7 +55,7 @@
     ]
   },
   "cobalt.brain": {
-    "sounds":[
+    "sounds": [
       "cobalt/effects/brain1",
       "cobalt/effects/brain2",
       "cobalt/effects/brain3",
@@ -63,73 +63,73 @@
     ],
     "category": "player"
   },
-  "cobalt.chant":{
-    "sounds":[
+  "cobalt.chant": {
+    "sounds": [
       "cobalt/effects/chant1",
       "cobalt/effects/chant2",
       "cobalt/effects/chant3"
     ],
     "category": "player"
   },
-  "cobalt.coins":{
-    "sounds":[
+  "cobalt.coins": {
+    "sounds": [
       "cobalt/effects/coins"
     ],
     "category": "player"
   },
-  "cobalt.heartbeat":{
-    "sounds":[
+  "cobalt.heartbeat": {
+    "sounds": [
       "cobalt/effects/heartbeat"
     ],
     "category": "player"
   },
-  "cobalt.infuser":{
-    "sounds":[
+  "cobalt.infuser": {
+    "sounds": [
       "cobalt/effects/infuser"
     ],
     "category": "player"
   },
-  "cobalt.infuserstart":{
-    "sounds":[
+  "cobalt.infuserstart": {
+    "sounds": [
       "cobalt/effects/infuserstart"
     ],
     "category": "player"
   },
-  "cobalt.monolith":{
-    "sounds":[
+  "cobalt.monolith": {
+    "sounds": [
       "cobalt/effects/monolith"
     ],
     "category": "player"
   },
-  "cobalt.poof":{
-    "sounds":[
+  "cobalt.poof": {
+    "sounds": [
       "cobalt/effects/poof1",
       "cobalt/effects/poof2"
     ],
     "category": "player"
   },
-  "cobalt.scan":{
-    "sounds":[
+  "cobalt.scan": {
+    "sounds": [
       "cobalt/effects/scan"
     ],
     "category": "player"
   },
-  "cobalt.perk_seal":{
-    "sounds":[
+  "cobalt.perk_seal": {
+    "sounds": [
       "cobalt/effects/perk_seal_1",
       "cobalt/effects/perk_seal_2"
     ],
     "category": "player"
   },
-  "cobalt.perk_unlock":{
-    "sounds":[
+  "cobalt.perk_unlock": {
+    "sounds": [
       "cobalt/effects/perk_unlock_1",
       "cobalt/effects/perk_unlock_2"
     ],
     "category": "player"
   },
-  "cobalt.perk_unseal":{
-    "sounds":[
+  "cobalt.perk_unseal": {
+    "sounds": [
       {
         "name": "cobalt/effects/perk_unseal_1",
         "stream": false
@@ -177,93 +177,1174 @@
     ],
     "category": "player"
   },
-  "cobalt.big_start":{
-    "sounds":[
+  "cobalt.big_start": {
+    "sounds": [
       "cobalt/effects/big_start"
     ],
     "category": "player"
   },
-  "cobalt.teleporter_on":{
-    "sounds":[
+  "cobalt.teleporter_on": {
+    "sounds": [
       "cobalt/effects/teleporter_on"
     ],
     "category": "player"
   },
-  "cobalt.computers_on":{
-    "sounds":[
+  "cobalt.computers_on": {
+    "sounds": [
       "cobalt/effects/computers_on_sfx"
     ],
     "category": "player"
   },
-  "cobalt.generator_on":{
-    "sounds":[
+  "cobalt.generator_on": {
+    "sounds": [
       "cobalt/effects/generator_on_sfx"
     ],
     "category": "player"
   },
-  "cobalt.hydrolics_on":{
-    "sounds":[
+  "cobalt.hydrolics_on": {
+    "sounds": [
       "cobalt/effects/hydrolics_on_sfx"
     ],
     "category": "player"
   },
-  "cobalt.pulse":{
-    "sounds":[
+  "cobalt.pulse": {
+    "sounds": [
       "cobalt/effects/pulse_2"
     ],
     "category": "player"
   },
-  "cobalt.end_cin_sfx":{
-    "sounds":[
+  "cobalt.end_cin_sfx": {
+    "sounds": [
       "cobalt/effects/end_cin_sfx"
     ],
     "category": "player"
   },
-  "cobalt.power_up":{
-    "sounds":[
+  "cobalt.power_up": {
+    "sounds": [
       "cobalt/effects/power_up"
     ],
     "category": "player"
   },
-  "cobalt.ai_engine_up":{
-    "sounds":[
+  "cobalt.ai_engine_up": {
+    "sounds": [
       "cobalt/ai/ai_engine_up"
     ],
     "category": "player"
   },
-  "cobalt.ai_engine_down":{
-    "sounds":[
+  "cobalt.ai_engine_down": {
+    "sounds": [
       "cobalt/ai/ai_engine_down"
     ],
     "category": "player"
   },
-  "cobalt.ai_telemetry_on":{
-    "sounds":[
+  "cobalt.ai_telemetry_on": {
+    "sounds": [
       "cobalt/ai/ai_telemetry_on"
     ],
     "category": "player"
   },
-  "cobalt.ai_computer_on":{
-    "sounds":[
+  "cobalt.ai_computer_on": {
+    "sounds": [
       "cobalt/ai/ai_computer_on"
     ],
     "category": "player"
   },
-  "cobalt.ai_hydrolics_on":{
-    "sounds":[
+  "cobalt.ai_hydrolics_on": {
+    "sounds": [
       "cobalt/ai/ai_hydrolics_on"
     ],
     "category": "player"
   },
-  "cobalt.ai_auxilery_on":{
-    "sounds":[
+  "cobalt.ai_auxilery_on": {
+    "sounds": [
       "cobalt/ai/ai_auxilery_on"
     ],
     "category": "player"
   },
-  "cobalt.ai_power_down":{
-    "sounds":[
+  "cobalt.ai_power_down": {
+    "sounds": [
       "cobalt/ai/ai_power_down"
+    ],
+    "category": "player"
+  },
+  "magic.bonk": {
+    "sounds": [
+      "magic:spells/bonk1",
+      "magic:spells/bonk2",
+      "magic:spells/bonk3",
+      "magic:spells/bonk4"
+    ],
+    "category": "player"
+  },
+  "magic.sonic": {
+    "sounds": [
+      "magic:spells/sonic"
+    ],
+    "category": "player"
+  },
+  "magic.crack": {
+    "sounds": [
+      {
+        "name": "magic:spells/crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/crack1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/crack1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.electrify": {
+    "sounds": [
+      {
+        "name": "magic:spells/electrify1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/electrify1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/electrify1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/electrify1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/electrify1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.hit": {
+    "sounds": [
+      "magic:spells/hit1",
+      "magic:spells/hit2",
+      "magic:spells/hit3",
+      "magic:spells/hit4"
+    ],
+    "category": "player"
+  },
+  "magic.shimmer_crack": {
+    "sounds": [
+      {
+        "name": "magic:spells/shimmer_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/shimmer_crack1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/shimmer_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/shimmer_crack1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/shimmer_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.shimmer": {
+    "sounds": [
+      {
+        "name": "magic:spells/shimmer1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/shimmer1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/shimmer1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/shimmer1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/shimmer1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.zap_crack": {
+    "sounds": [
+      {
+        "name": "magic:spells/zap_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/zap_crack1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/zap_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/zap_crack1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/zap_crack1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.zap": {
+    "sounds": [
+      {
+        "name": "magic:spells/zap1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/zap1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/zap1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/zap1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/zap1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.zap_big": {
+    "sounds": [
+      {
+        "name": "magic:spells/zap_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/zap_big1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/zap_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/zap_big1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/zap_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.teleport": {
+    "sounds": [
+      {
+        "name": "magic:spells/teleport1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/teleport1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/teleport1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/teleport1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/teleport1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      },
+      {
+        "name": "magic:spells/teleport2",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/teleport2",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/teleport2",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/teleport2",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/teleport2",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.shield": {
+    "sounds": [
+      {
+        "name": "magic:spells/shield1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/shield1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/shield1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/shield1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/shield1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.burn": {
+    "sounds": [
+      {
+        "name": "magic:spells/burn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/burn1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/burn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/burn1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/burn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.ignite": {
+    "sounds": [
+      {
+        "name": "magic:spells/ignite1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/ignite1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/ignite1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/ignite1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/ignite1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.shimmer_quiet": {
+    "sounds": [
+      {
+        "name": "magic:spells/shimmer_quiet1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/shimmer_quiet1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/shimmer_quiet1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/shimmer_quiet1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/shimmer_quiet1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.flying": {
+    "sounds": [
+      {
+        "name": "magic:spells/flying1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/flying1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/flying1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/flying1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/flying1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.paperturn": {
+    "sounds": [
+      {
+        "name": "magic:spells/paperturn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/paperturn1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/paperturn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/paperturn1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/paperturn1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.wandup": {
+    "sounds": [
+      {
+        "name": "magic:spells/wandup1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/wandup1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/wandup1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/wandup1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/wandup1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.wanddown": {
+    "sounds": [
+      {
+        "name": "magic:spells/wanddown1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/wanddown1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/wanddown1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/wanddown1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/wanddown1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.shimmer_big": {
+    "sounds": [
+      {
+        "name": "magic:spells/shimmer_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/shimmer_big1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/shimmer_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/shimmer_big1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/shimmer_big1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.shield_boom": {
+    "sounds": [
+      {
+        "name": "magic:spells/shield_boom1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/shield_boom1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/shield_boom1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/shield_boom1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/shield_boom1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.zap_up": {
+    "sounds": [
+      {
+        "name": "magic:spells/zap_up1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/zap_up1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/zap_up1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/zap_up1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/zap_up1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "magic.vanish": {
+    "sounds": [
+      {
+        "name": "magic:spells/vanish1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1,
+        "weight": 3
+      },
+      {
+        "name": "magic:spells/vanish1",
+        "stream": false,
+        "volume": 0.9,
+        "pitch": 0.7
+      },
+      {
+        "name": "magic:spells/vanish1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "magic:spells/vanish1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "magic:spells/vanish1",
+        "stream": false,
+        "volume": 1,
+        "pitch": 1.3
+      }
+    ],
+    "category": "player"
+  },
+  "flute.1c": {
+    "sounds": [
+      "magic:flute/1cmid"
+    ],
+    "category": "player"
+  },
+  "flute.2csharp": {
+    "sounds": [
+      "magic:flute/2csharp"
+    ],
+    "category": "player"
+  },
+  "flute.3d": {
+    "sounds": [
+      "magic:flute/3d"
+    ],
+    "category": "player"
+  },
+  "flute.4dsharp": {
+    "sounds": [
+      "magic:flute/4dsharp"
+    ],
+    "category": "player"
+  },
+  "flute.5e": {
+    "sounds": [
+      "magic:flute/5e"
+    ],
+    "category": "player"
+  },
+  "flute.6f": {
+    "sounds": [
+      "magic:flute/6f"
+    ],
+    "category": "player"
+  },
+  "flute.7fsharp": {
+    "sounds": [
+      "magic:flute/7fsharp"
+    ],
+    "category": "player"
+  },
+  "flute.8g": {
+    "sounds": [
+      "magic:flute/8g"
+    ],
+    "category": "player"
+  },
+  "flute.9gsharp": {
+    "sounds": [
+      "magic:flute/9gsharp"
+    ],
+    "category": "player"
+  },
+  "flute.10a": {
+    "sounds": [
+      "magic:flute/10a"
+    ],
+    "category": "player"
+  },
+  "flute.11asharp": {
+    "sounds": [
+      "magic:flute/11asharp"
+    ],
+    "category": "player"
+  },
+  "flute.12b": {
+    "sounds": [
+      "magic:flute/12b"
+    ],
+    "category": "player"
+  },
+  "flute.13coctave": {
+    "sounds": [
+      "magic:flute/13coctave"
+    ],
+    "category": "player"
+  },
+  "flute.14csharp": {
+    "sounds": [
+      "magic:flute/14csharp"
+    ],
+    "category": "player"
+  },
+  "flute.15d": {
+    "sounds": [
+      "magic:flute/15d"
+    ],
+    "category": "player"
+  },
+  "flute.16dsharp": {
+    "sounds": [
+      "magic:flute/16dsharp"
+    ],
+    "category": "player"
+  },
+  "flute.17e": {
+    "sounds": [
+      "magic:flute/17e"
+    ],
+    "category": "player"
+  },
+  "flute.18f": {
+    "sounds": [
+      "magic:flute/18f"
+    ],
+    "category": "player"
+  },
+  "flute.19fsharp": {
+    "sounds": [
+      "magic:flute/19fsharp"
+    ],
+    "category": "player"
+  },
+  "flute.20g": {
+    "sounds": [
+      "magic:flute/20g"
+    ],
+    "category": "player"
+  },
+  "flute.21gsharp": {
+    "sounds": [
+      "magic:flute/21gsharp"
+    ],
+    "category": "player"
+  },
+  "flute.22a": {
+    "sounds": [
+      "magic:flute/22a"
+    ],
+    "category": "player"
+  },
+  "flute.23asharp": {
+    "sounds": [
+      "magic:flute/23asharp"
+    ],
+    "category": "player"
+  },
+  "flute.24b": {
+    "sounds": [
+      "magic:flute/24b"
+    ],
+    "category": "player"
+  },
+  "magic.saberon": {
+    "category": "player",
+    "sounds": [
+      {
+        "weight": 3,
+        "pitch": 1,
+        "volume": 1.3,
+        "stream": false,
+        "name": "magic:saber/saberon"
+      },
+      {
+        "pitch": 0.7,
+        "volume": 1.4,
+        "stream": false,
+        "name": "magic:saber/saberon"
+      },
+      {
+        "pitch": 0.8,
+        "volume": 1.2,
+        "stream": false,
+        "name": "magic:saber/saberon"
+      },
+      {
+        "pitch": 1.1,
+        "volume": 1.3,
+        "stream": false,
+        "name": "magic:saber/saberon"
+      }
+    ]
+  },
+  "magic.saberoff": {
+    "category": "player",
+    "sounds": [
+      {
+        "weight": 3,
+        "pitch": 1,
+        "volume": 1,
+        "stream": false,
+        "name": "magic:saber/saberoff"
+      },
+      {
+        "pitch": 0.7,
+        "volume": 0.9,
+        "stream": false,
+        "name": "magic:saber/saberoff"
+      },
+      {
+        "pitch": 0.8,
+        "volume": 1,
+        "stream": false,
+        "name": "magic:saber/saberoff"
+      },
+      {
+        "pitch": 1.2,
+        "volume": 0.8,
+        "stream": false,
+        "name": "magic:saber/saberoff"
+      },
+      {
+        "pitch": 1.3,
+        "volume": 1,
+        "stream": false,
+        "name": "magic:saber/saberoff"
+      }
+    ]
+  },
+  "magic.saberhum": {
+    "category": "player",
+    "sounds": [
+      {
+        "pitch": 1,
+        "volume": 5,
+        "stream": false,
+        "name": "magic:saber/saberhum"
+      }
+    ]
+  },
+  "magic.saberhit": {
+    "category": "player",
+    "sounds": [
+      {
+        "weight": 3,
+        "pitch": 1,
+        "volume": 1,
+        "stream": false,
+        "name": "magic:saber/saberhit"
+      },
+      {
+        "pitch": 0.7,
+        "volume": 0.9,
+        "stream": false,
+        "name": "magic:saber/saberhit"
+      },
+      {
+        "pitch": 0.8,
+        "volume": 1,
+        "stream": false,
+        "name": "magic:saber/saberhit"
+      },
+      {
+        "pitch": 1.2,
+        "volume": 0.8,
+        "stream": false,
+        "name": "magic:saber/saberhit"
+      },
+      {
+        "pitch": 1.3,
+        "volume": 1,
+        "stream": false,
+        "name": "magic:saber/saberhit"
+      }
+    ]
+  },
+  "magic.saberswing": {
+    "category": "player",
+    "sounds": [
+      "magic:saber/saberswing1",
+      "magic:saber/saberswing2",
+      "magic:saber/saberswing3",
+      "magic:saber/saberswing4",
+      "magic:saber/saberswing5",
+      "magic:saber/saberswing6",
+      "magic:saber/saberswing7",
+      "magic:saber/saberswing8"
+    ]
+  },
+  "magic.ringing": {
+    "sounds": [
+      "magic:spells/ringing1"
+    ],
+    "category": "player"
+  },
+  "magic.ghost_breath": {
+    "sounds": [
+      "magic:halloween/ghost_breath"
+    ],
+    "category": "player"
+  },
+  "magic.scarecrow": {
+    "sounds": [
+      "magic:halloween/scarecrow"
+    ],
+    "category": "player"
+  },
+  "magic.swipe": {
+    "sounds": [
+      "magic:halloween/swipe"
+    ],
+    "category": "player"
+  },
+  "magic.igor": {
+    "sounds": [
+      "magic:halloween/igor"
+    ],
+    "category": "player"
+  },
+  "magic.werewolf": {
+    "sounds": [
+      "magic:halloween/werewolf"
     ],
     "category": "player"
   }
