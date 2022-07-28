@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobalt/spells/spell_frame_static_projectile",
+    "layer1": "cobalt/spells/explosion_of_brimstone"
+  }
+}

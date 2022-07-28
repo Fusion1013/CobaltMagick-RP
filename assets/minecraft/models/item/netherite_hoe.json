@@ -6,6 +6,7 @@
     "overrides": [
 		{"predicate": {"custom_model_data": 0}, "model":"item/netherite_hoe"},
 		{"predicate": {"custom_model_data": 1}, "model": "cobalt/tools/hoe/netherite_hoe_1"},
-		{"predicate": {"custom_model_data": 2}, "model": "cobalt/tools/hoe/netherite_hoe_2"}
+		{"predicate": {"custom_model_data": 2}, "model": "cobalt/tools/hoe/netherite_hoe_2"},
+		{"predicate": {"custom_model_data": 3}, "model": "cobalt/tools/hoe/netherite_hoe_3"}
     ]
 }

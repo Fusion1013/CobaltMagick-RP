@@ -7,8 +7,6 @@
   "overrides": [
     { "predicate": {"custom_model_data": 0}, "model": "item/leather_horse_armor"},
 
-	{ "predicate": {"custom_model_data": 1}, "model": "wand/ocarina"},
-
     { "predicate": {"custom_model_data": 1110}, "model": "cobalt/wand/crystal_short_one_0"},
     { "predicate": {"custom_model_data": 1120}, "model": "cobalt/wand/crystal_short_two_0"},
     { "predicate": {"custom_model_data": 1130}, "model": "cobalt/wand/crystal_short_three_0"},
@@ -32,6 +30,10 @@
 
     { "predicate": {"custom_model_data": 2310}, "model": "cobalt/wand/nocrystal_long_one_0"},
     { "predicate": {"custom_model_data": 2320}, "model": "cobalt/wand/nocrystal_long_two_0"},
-    { "predicate": {"custom_model_data": 2330}, "model": "cobalt/wand/nocrystal_long_three_0"}
+    { "predicate": {"custom_model_data": 2330}, "model": "cobalt/wand/nocrystal_long_three_0"},
+	
+	  { "predicate": {"custom_model_data": 10000}, "model": "cobalt/wand/ocarina"},
+
+    { "predicate": {"custom_model_data": 20000}, "model": "cobalt/tools/pouch/practitioners_pouch"}
   ]
 }

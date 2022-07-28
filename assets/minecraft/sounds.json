@@ -49,9 +49,59 @@
       "cobalt/tracks/only_the_beginning"
     ]
   },
-  "cobalt.eternal_halls": {
+  "cobalt.music.eternal_halls": {
     "sounds": [
       "cobalt/tracks/echoes/eternal_halls"
+    ]
+  },
+  "cobalt.music.fear_and_ashes": {
+    "sounds": [
+      "cobalt/tracks/echoes/fear_and_ashes"
+    ]
+  },
+  "cobalt.music.into_shadow": {
+    "sounds": [
+      "cobalt/tracks/echoes/into_shadow"
+    ]
+  },
+  "cobalt.music.sealed_away": {
+    "sounds": [
+      "cobalt/tracks/echoes/sealed_away"
+    ]
+  },
+  "cobalt.music.secret_ways": {
+    "sounds": [
+      "cobalt/tracks/echoes/secret_ways"
+    ]
+  },
+  "cobalt.music.the_forbidden_archives": {
+    "sounds": [
+      "cobalt/tracks/echoes/the_forbidden_archives"
+    ]
+  },
+  "cobalt.music.the_sound_of_water": {
+    "sounds": [
+      "cobalt/tracks/echoes/the_sound_of_water"
+    ]
+  },
+  "cobalt.music.shes_back": {
+    "sounds": [
+      "cobalt/tracks/arcane/shes_back"
+    ]
+  },
+  "cobalt.music.showdown": {
+    "sounds": [
+      "cobalt/tracks/arcane/showdown"
+    ]
+  },
+  "cobalt.music.holy_mountain_theme": {
+    "sounds": [
+      "cobalt/tracks/noita/holy_mountain_theme"
+    ]
+  },
+  "cobalt.music.it_was_all_written_in_these_scrolls": {
+    "sounds": [
+      "cobalt/tracks/noita/it_was_all_written_in_these_scrolls"
     ]
   },
   "cobalt.brain": {
