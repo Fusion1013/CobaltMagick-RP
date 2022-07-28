@@ -109,6 +109,24 @@
     },
     {
       "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "cobalt/potions/coffee_cup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "cobalt/potions/tankard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "cobalt/potions/living_flame_bottle"
+    },
+    {
+      "predicate": {
         "custom_model_data": 18001
       },
       "model": "magic:food/coffee"

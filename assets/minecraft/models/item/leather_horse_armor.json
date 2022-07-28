@@ -12,12 +12,6 @@
     },
     {
       "predicate": {
-        "custom_model_data": 1
-      },
-      "model": "wand/ocarina"
-    },
-    {
-      "predicate": {
         "custom_model_data": 1110
       },
       "model": "cobalt/wand/crystal_short_one_0"
@@ -132,6 +126,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "cobalt/wand/ocarina"
+    },
+    {
+      "predicate": {
         "custom_model_data": 18001
       },
       "model": "magic:mobs/dragon/dragon_base"
@@ -153,6 +153,12 @@
         "custom_model_data": 18004
       },
       "model": "magic:wands/staff_survival_colorable"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20000
+      },
+      "model": "cobalt/tools/pouch/practitioners_pouch"
     }
   ]
 }

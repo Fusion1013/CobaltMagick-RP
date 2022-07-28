@@ -42,6 +42,96 @@
     },
     {
       "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "cobalt/tools/sword/netherite_sword_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "cobalt/tools/sword/netherite_sword_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "cobalt/tools/sword/netherite_sword_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "cobalt/tools/sword/netherite_sword_9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "cobalt/tools/sword/netherite_sword_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "cobalt/tools/sword/netherite_sword_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "cobalt/tools/sword/other_sword_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "cobalt/tools/sword/other_sword_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "cobalt/tools/sword/other_sword_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "cobalt/tools/sword/other_sword_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "cobalt/tools/sword/other_sword_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "cobalt/tools/sword/other_sword_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "cobalt/tools/sword/other_sword_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "cobalt/tools/sword/other_sword_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "cobalt/tools/sword/other_sword_9"
+    },
+    {
+      "predicate": {
         "custom_model_data": 18001
       },
       "model": "magic:weapons/emerald_sword"

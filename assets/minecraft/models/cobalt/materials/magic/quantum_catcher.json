@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobalt/materials/magic/quantum_catcher_inner",
+    "layer1": "cobalt/materials/magic/quantum_catcher"
+  }
+}

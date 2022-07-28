@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobalt/tools/artifacts/transitory_tunnel_ring",
+    "layer1": "cobalt/tools/artifacts/transitory_tunnel_inner"
+  }
+}

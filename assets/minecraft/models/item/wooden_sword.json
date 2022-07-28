@@ -7,6 +7,7 @@
 		{"predicate": {"custom_model_data": 0}, "model":"item/wooden_sword"},
 		{"predicate": {"custom_model_data": 1}, "model": "cobalt/tools/staff/staff_1"},
 		{"predicate": {"custom_model_data": 2}, "model": "cobalt/tools/staff/staff_2"},
-		{"predicate": {"custom_model_data": 3}, "model": "cobalt/tools/staff/staff_3"}
+		{"predicate": {"custom_model_data": 3}, "model": "cobalt/tools/staff/staff_3"},
+		{"predicate": {"custom_model_data": 4}, "model": "cobalt/tools/staff/scepter"}
     ]
 }
