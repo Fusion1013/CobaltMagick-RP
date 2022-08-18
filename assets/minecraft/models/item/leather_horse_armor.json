@@ -12,6 +12,7 @@
     { "predicate": {"custom_model_data": 1130}, "model": "cobalt/wand/crystal_short_three_0"},
 
     { "predicate": {"custom_model_data": 1210}, "model": "cobalt/wand/crystal_medium_one_0"},
+    { "predicate": {"custom_model_data": 1211}, "model": "cobalt/wand/crystal_medium_one_1"},
     { "predicate": {"custom_model_data": 1220}, "model": "cobalt/wand/crystal_medium_two_0"},
     { "predicate": {"custom_model_data": 1230}, "model": "cobalt/wand/crystal_medium_three_0"},
 
