@@ -2,604 +2,649 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/spark_bolt.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE000"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/bubble_spark.png",
-            "ascent": 16,
-            "height": 16,
+            "file": "minecraft:cobalt/gui/bar_empty.png",
+            "ascent": 2,
+            "height": 17,
             "chars": ["\uE001"]
         },
-        {
+		{
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/bouncing_burst.png",
-            "ascent": 16,
-            "height": 16,
+            "file": "minecraft:cobalt/gui/bar_empty_right.png",
+            "ascent": 2,
+            "height": 17,
             "chars": ["\uE002"]
         },
-        {
+		{
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/firebolt.png",
-            "ascent": 16,
-            "height": 16,
+            "file": "minecraft:cobalt/gui/bar_empty_left.png",
+            "ascent": 2,
+            "height": 17,
             "chars": ["\uE003"]
         },
-        {
+		{
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/burst_of_air.png",
-            "ascent": 16,
-            "height": 16,
+            "file": "minecraft:cobalt/gui/bar_full_blue.png",
+            "ascent": 2,
+            "height": 17,
             "chars": ["\uE004"]
         },
-        {
+		{
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/spark_bolt_with_trigger.png",
-            "ascent": 16,
-            "height": 16,
+            "file": "minecraft:cobalt/gui/bar_full_right_blue.png",
+            "ascent": 2,
+            "height": 17,
             "chars": ["\uE005"]
         },
-        {
+		{
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/spark_bolt_with_double_trigger.png",
-            "ascent": 16,
-            "height": 16,
+            "file": "minecraft:cobalt/gui/bar_full_left_blue.png",
+            "ascent": 2,
+            "height": 17,
             "chars": ["\uE006"]
         },
-        {
+		{
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/spark_bolt_with_timer.png",
-            "ascent": 16,
-            "height": 16,
+            "file": "minecraft:cobalt/gui/bar_full_brown.png",
+            "ascent": 2,
+            "height": 17,
             "chars": ["\uE007"]
         },
-        {
+		{
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/black_hole.png",
-            "ascent": 16,
-            "height": 16,
+            "file": "minecraft:cobalt/gui/bar_full_right_brown.png",
+            "ascent": 2,
+            "height": 17,
             "chars": ["\uE008"]
         },
-        {
+		{
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/digging_blast.png",
-            "ascent": 16,
-            "height": 16,
+            "file": "minecraft:cobalt/gui/bar_full_left_brown.png",
+            "ascent": 2,
+            "height": 17,
             "chars": ["\uE009"]
         },
-        {
+		{
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/nuke.png",
-            "ascent": 16,
-            "height": 16,
+            "file": "minecraft:cobalt/gui/effect_test.png",
+            "ascent": 2,
+            "height": 64,
             "chars": ["\uE00A"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/giga_nuke.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE00B"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF801"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/energy_orb.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE00C"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF802"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/teleport_bolt.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE00D"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF803"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/return.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE00E"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF804"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/swapper.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE00F"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF805"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/fireball.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE010"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF806"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/arrow.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE011"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF807"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/bomb.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE012"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF808"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/bomb_cart.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE013"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF809"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/cursed_sphere.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE014"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF80A"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_spells/fireworks.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE015"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF80B"
+            ]
         },
-
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/static_projectile_spells/sphere_of_buoyancy.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE100"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF80C"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/static_projectile_spells/giga_black_hole.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE101"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF80D"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/static_projectile_spells/omega_black_hole.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE102"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF80E"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/static_projectile_spells/sphere_of_stillness.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE103"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF80F"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/static_projectile_spells/sphere_of_thunder.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE104"]
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF800"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/static_projectile_spells/sphere_of_vigour.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE105"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF821"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/static_projectile_spells/explosion_of_brimstone.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE107"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF822"
+            ]
         },
-
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/utility_spells/long-distance_cast.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE301"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF823"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/utility_spells/warp_cast.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE302"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF824"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/utility_spells/all-seeing_eye.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE303"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF825"
+            ]
         },
-
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/add_mana.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE401"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF826"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/freeze_charge.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE403"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF827"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/electric_charge.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE404"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF828"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/reduce_lifetime.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE405"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF829"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/increase_lifetime.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE406"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF82A"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/speed_up.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE407"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF82B"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/explosive_projectile.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE408"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF82C"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/reduce_recharge_time.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE409"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF82D"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/heavy_spread.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE40A"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF82E"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/fire_trail.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE40B"]
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF82F"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/rainbow_trail.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE40C"]
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF820"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/water_trail.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE40D"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF811"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/bounce.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE40E"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF812"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/projectile_modifier_spells/remove_bounce.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE40F"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF813"
+            ]
         },
-
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/material_spells/sea_of_water.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE500"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF814"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/material_spells/sphere_of_water.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE501"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF815"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/material_spells/sphere_of_lava.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE502"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF816"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/material_spells/chunk_of_dirt.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE503"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF817"
+            ]
         },
-
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/tuple_spell.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE600"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF818"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/triple_spell.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE601"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF819"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/quadruple_spell.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE602"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF81A"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/octuple_spell.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE603"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF81B"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/tuple_scatter_spell.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE604"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF81C"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/triple_scatter_spell.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE605"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF81D"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/quadruple_scatter_spell.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE606"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF81E"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/behind_your_back.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE607"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF81F"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/above_and_below.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE608"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF810"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/pentagon.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE609"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF831"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/hexagon.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE60A"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF832"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/bifurcated.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE60B"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF833"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/multicast_spells/trifurcated.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE60C"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF834"
+            ]
         },
-
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/ocarina_a.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE701"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF835"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/ocarina_b.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE702"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF836"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/ocarina_c.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE703"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF837"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/ocarina_d.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE704"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF838"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/ocarina_e.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE705"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF839"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/ocarina_f.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE706"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF83A"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/ocarina_gg.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE707"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF83B"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/ocarina_a2.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE708"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF83C"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/kantele_a.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE709"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF83D"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/kantele_d.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE70A"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF83E"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/kantele_dd.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE70B"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF83F"
+            ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/kantele_e.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE70C"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/kantele_g.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE70D"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/alpha.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE70E"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/gamma.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE70F"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/mu.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE710"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/omega.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE711"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/phi.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE712"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/sigma.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE713"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/tau.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE714"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/zeta.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE715"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:cobalt/icons/other_spells/random_spell.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uE716"]
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF830"
+            ]
         }
     ]
 }

@@ -226,6 +226,10 @@
 	{"predicate":{"custom_model_data":20005},"model":"cobalt/other/easteregg5"},
 	{"predicate":{"custom_model_data":20006},"model":"cobalt/other/easteregg6"},
 
+	{"predicate":{"custom_model_data":30001},"model":"cobalt/other/trophy"},
+    {"predicate":{"custom_model_data":30002},"model":"cobalt/other/trophy1"},
+    {"predicate":{"custom_model_data":30003},"model":"cobalt/other/crown"},
+
     {"predicate":{"custom_model_data":100000},"model":"cobalt/spells/projectile/spark_bolt"},
     {"predicate":{"custom_model_data":100001},"model":"cobalt/spells/projectile/bubble_spark"},
     {"predicate":{"custom_model_data":100002},"model":"cobalt/spells/projectile/bouncing_burst"},
