@@ -226,6 +226,10 @@
 	{"predicate":{"custom_model_data":20005},"model":"cobalt/other/easteregg5"},
 	{"predicate":{"custom_model_data":20006},"model":"cobalt/other/easteregg6"},
 
+	{"predicate":{"custom_model_data":30001},"model":"cobalt/other/trophy"},
+    {"predicate":{"custom_model_data":30002},"model":"cobalt/other/trophy1"},
+    {"predicate":{"custom_model_data":30003},"model":"cobalt/other/crown"},
+
     {"predicate":{"custom_model_data":100000},"model":"cobalt/spells/projectile/spark_bolt"},
     {"predicate":{"custom_model_data":100001},"model":"cobalt/spells/projectile/bubble_spark"},
     {"predicate":{"custom_model_data":100002},"model":"cobalt/spells/projectile/bouncing_burst"},
@@ -287,8 +291,8 @@
     {"predicate":{"custom_model_data":700003},"model":"cobalt/spells/multicast/octuple_spell"},
     {"predicate":{"custom_model_data":700004},"model":"cobalt/spells/multicast/tuple_scatter_spell"},
     {"predicate":{"custom_model_data":700005},"model":"cobalt/spells/multicast/triple_scatter_spell"},
-    {"predicate":{"custom_model_data":700007},"model":"cobalt/spells/multicast/behind_your_back"},
     {"predicate":{"custom_model_data":700006},"model":"cobalt/spells/multicast/quadruple_scatter_spell"},
+    {"predicate":{"custom_model_data":700007},"model":"cobalt/spells/multicast/behind_your_back"},
     {"predicate":{"custom_model_data":700008},"model":"cobalt/spells/multicast/above_and_below"},
     {"predicate":{"custom_model_data":700009},"model":"cobalt/spells/multicast/pentagon"},
     {"predicate":{"custom_model_data":700010},"model":"cobalt/spells/multicast/hexagon"},

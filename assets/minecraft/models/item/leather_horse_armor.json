@@ -36,6 +36,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 1211
+      },
+      "model": "cobalt/wand/crystal_medium_one_1"
+    },
+    {
+      "predicate": {
         "custom_model_data": 1220
       },
       "model": "cobalt/wand/crystal_medium_two_0"

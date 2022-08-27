@@ -354,6 +354,36 @@
     },
     {
       "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "cobalt/materials/magic/sunseed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "cobalt/materials/magic/air_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1015
+      },
+      "model": "cobalt/materials/magic/fire_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "cobalt/materials/magic/water_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "cobalt/materials/magic/earth_stone"
+    },
+    {
+      "predicate": {
         "custom_model_data": 2000
       },
       "model": "cobalt/materials/ingot/purified_vinteum_coated_iron"

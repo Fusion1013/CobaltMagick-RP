@@ -5,7 +5,13 @@
   },
 
   "overrides": [
-	{"predicate": {"custom_model_data": 0}, "model":"item/gold_nugget"},
-    {"predicate": { "custom_model_data": 1}, "model": "cobalt/materials/coins/gold_coin"}
+	  {"predicate": {"custom_model_data": 0}, "model":"item/gold_nugget"},
+    {
+      "predicate": 
+        {
+          "custom_model_data": 1
+        },
+      "model": "cobalt/materials/coins/gold_coin"
+    }
   ]
 }
