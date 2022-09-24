@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobalt/armor/slimesteel/slimesteel_leggings",
+	"layer1": "cobalt/armor/slimesteel/slimesteel_leggings"
+  }
+}

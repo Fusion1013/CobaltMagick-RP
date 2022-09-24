@@ -218,6 +218,7 @@
     {"predicate":{"custom_model_data":10003},"model":"cobalt/block/cauldron"},
     {"predicate":{"custom_model_data":10004},"model":"cobalt/block/output"},
     {"predicate":{"custom_model_data":10005},"model":"cobalt/block/mixing_cauldron_empty"},
+    {"predicate":{"custom_model_data":10006},"model":"cobalt/block/plinth_top"},
 	
 	{"predicate":{"custom_model_data":20001},"model":"cobalt/other/easteregg1"},
 	{"predicate":{"custom_model_data":20002},"model":"cobalt/other/easteregg2"},
@@ -321,6 +322,7 @@
     {"predicate":{"custom_model_data":800019},"model":"cobalt/spells/other/tau"},
     {"predicate":{"custom_model_data":800020},"model":"cobalt/spells/other/zeta"},
     {"predicate":{"custom_model_data":800021},"model":"cobalt/spells/other/random_spell"},
+    {"predicate":{"custom_model_data":800022},"model":"cobalt/spells/other/repaired_spell"},
 
     {"predicate":{"custom_model_data":900000},"model":"cobalt/spells/spell_frame_material"},
     {"predicate":{"custom_model_data":900001},"model":"cobalt/spells/spell_frame_other"},
