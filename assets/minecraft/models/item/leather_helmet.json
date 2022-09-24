@@ -1,12 +1,33 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "minecraft:item/leather_helmet",
-        "layer1": "minecraft:item/leather_helmet_overlay"
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_helmet",
+    "layer1": "minecraft:item/leather_helmet_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "cobalt/armor/slimesteel/slimesteel_helmet"
     },
-
-    "overrides": [
-        {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/hat"},
-        {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/hat"}
-    ]
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "cobalt/armor/obsidian/obsidian_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18001
+      },
+      "model": "magic:icons/spells/hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18002
+      },
+      "model": "magic:icons_disabled/spells/hat"
+    }
+  ]
 }

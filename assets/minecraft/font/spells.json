@@ -608,6 +608,13 @@
             "height": 16,
             "chars": ["\uE716"]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:cobalt/icons/other_spells/repaired_spell.png",
+            "ascent": 16,
+            "height": 16,
+            "chars": ["\uE717"]
+        },
 
         {
             "type": "bitmap",
