@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"0": "eidolon:block/goblet",
-		"particle": "eidolon:block/goblet"
+		"0": "cobalt/block/goblet",
+		"particle": "cobalt/block/goblet"
 	},
 	"elements": [
 		{
@@ -78,5 +78,16 @@
 				"west": {"uv": [10, 1, 11, 5], "rotation": 90, "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"head": {
+			"translation": [0, -27.25, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [90, 90, 0],
+			"translation": [0, 0, 49.75],
+			"scale": [2.1, 2.1, 2.1]
+		}
+	}
 }

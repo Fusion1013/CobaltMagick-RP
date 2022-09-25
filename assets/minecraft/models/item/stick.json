@@ -1,0 +1,30 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/stick"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:cobalt/animated/centrifuge/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:cobalt/animated/centrifuge/group"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"bca5ce5a-2620-7677-d196-78e6de8f844e": {
+				"name": "animated_centrifuge",
+				"usedIDs": [
+					[1, 2]
+				]
+			}
+		}
+	}
+}

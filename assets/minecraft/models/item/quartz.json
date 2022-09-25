@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/quartz"
+  },
+
+  "overrides": [
+	  {"predicate": {"custom_model_data": 0}, "model":"item/quartz"},
+    {"predicate": { "custom_model_data": 1}, "model": "cobalt/tools/misc/prism"},
+    {"predicate": { "custom_model_data": 2}, "model": "cobalt/tools/misc/crystal1"},
+    {"predicate": { "custom_model_data": 3}, "model": "cobalt/tools/misc/crystal2"},
+    {"predicate": { "custom_model_data": 4}, "model": "cobalt/tools/misc/crystal3"},
+    {"predicate": { "custom_model_data": 5}, "model": "cobalt/tools/misc/crystal4"},
+    {"predicate": { "custom_model_data": 6}, "model": "cobalt/tools/misc/crystal5"}
+  ]
+}

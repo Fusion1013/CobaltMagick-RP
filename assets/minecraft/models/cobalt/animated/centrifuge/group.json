@@ -1,0 +1,54 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"side": "minecraft:cobalt/block/centrifuge"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [3, 14, 10, 16], "texture": "#side"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#side"},
+				"south": {"uv": [3, 14, 10, 16], "texture": "#side"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#side"},
+				"up": {"uv": [3, 14, 10, 16], "texture": "#side"},
+				"down": {"uv": [3, 14, 10, 16], "texture": "#side"}
+			},
+			"to": [9.6, 8.6, 8.4],
+			"from": [6.4, 7.8, 7.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.8, 5, 4.8]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [4, 5, 8, 11], "texture": "#side"},
+				"east": {"uv": [4, 5, 8, 11], "texture": "#side"},
+				"south": {"uv": [4, 5, 8, 11], "texture": "#side"},
+				"west": {"uv": [4, 5, 8, 11], "texture": "#side"},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#side"},
+				"down": {"uv": [4, 0, 8, 4], "texture": "#side"}
+			},
+			"to": [6.4, 9.4, 8.8],
+			"from": [4.8, 7, 7.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.8, 5, 4.8]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [4, 5, 8, 11], "texture": "#side"},
+				"east": {"uv": [4, 5, 8, 11], "texture": "#side"},
+				"south": {"uv": [4, 5, 8, 11], "texture": "#side"},
+				"west": {"uv": [4, 5, 8, 11], "texture": "#side"},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#side"},
+				"down": {"uv": [4, 0, 8, 4], "texture": "#side"}
+			},
+			"to": [11.2, 9.4, 8.8],
+			"from": [9.6, 7, 7.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.8, 5, 4.8]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}
