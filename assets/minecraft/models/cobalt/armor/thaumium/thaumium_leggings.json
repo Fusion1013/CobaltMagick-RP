@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobalt/armor/thaumium/thaumium_leggings",
+	"layer1": "cobalt/armor/thaumium/thaumium_leggings"
+  }
+}

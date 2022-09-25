@@ -6,6 +6,9 @@
   },
   "overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "cobalt/armor/slimesteel/slimesteel_helmet"},
-    {"predicate": {"custom_model_data": 2}, "model": "cobalt/armor/obsidian/obsidian_helmet"}
+    {"predicate": {"custom_model_data": 2}, "model": "cobalt/armor/obsidian/obsidian_helmet"},
+    {"predicate": {"custom_model_data": 3}, "model": "cobalt/armor/thaumium/thaumium_helmet"},
+    {"predicate": {"custom_model_data": 4}, "model": "cobalt/armor/void/void_helmet"},
+    {"predicate": {"custom_model_data": 5}, "model": "cobalt/armor/sunsteel/sunsteel_helmet"}
   ]
 }
