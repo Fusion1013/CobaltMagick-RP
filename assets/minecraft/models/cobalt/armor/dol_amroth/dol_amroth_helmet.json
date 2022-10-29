@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+		"layer0": "cobalt/armor/dol_amroth/dol_amroth_helmet",
+        "layer1": "cobalt/armor/dol_amroth/dol_amroth_helmet"
+    }
+}

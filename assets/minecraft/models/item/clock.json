@@ -231,6 +231,7 @@
     {"predicate":{"custom_model_data":10016},"model":"cobalt/block/jar_brain_item"},
     {"predicate":{"custom_model_data":10017},"model":"cobalt/block/jar_normal"},
     {"predicate":{"custom_model_data":10018},"model":"cobalt/block/jar_void"},
+    {"predicate":{"custom_model_data":10019},"model":"cobalt/block/infusion_matrix"},
 	
 	{"predicate":{"custom_model_data":20001},"model":"cobalt/other/easteregg1"},
 	{"predicate":{"custom_model_data":20002},"model":"cobalt/other/easteregg2"},

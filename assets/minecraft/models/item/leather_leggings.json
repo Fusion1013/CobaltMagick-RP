@@ -9,6 +9,7 @@
     {"predicate": {"custom_model_data": 2}, "model": "cobalt/armor/obsidian/obsidian_leggings"},
     {"predicate": {"custom_model_data": 3}, "model": "cobalt/armor/thaumium/thaumium_leggings"},
     {"predicate": {"custom_model_data": 4}, "model": "cobalt/armor/void/void_leggings"},
-    {"predicate": {"custom_model_data": 5}, "model": "cobalt/armor/sunsteel/sunsteel_leggings"}
+    {"predicate": {"custom_model_data": 5}, "model": "cobalt/armor/sunsteel/sunsteel_leggings"},
+    {"predicate": {"custom_model_data": 6}, "model": "cobalt/armor/dol_amroth/dol_amroth_leggings"}
   ]
 }
