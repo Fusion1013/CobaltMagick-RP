@@ -11,6 +11,7 @@
 		{"predicate": {"custom_model_data": 4}, "model": "cobalt/tools/axe/netherite_axe_4"},
 		{"predicate": {"custom_model_data": 5}, "model": "cobalt/tools/axe/netherite_axe_5"},
 		{"predicate": {"custom_model_data": 6}, "model": "cobalt/tools/axe/netherite_axe_6"},
-		{"predicate": {"custom_model_data": 7}, "model": "cobalt/tools/axe/netherite_axe_7"}
+		{"predicate": {"custom_model_data": 7}, "model": "cobalt/tools/axe/netherite_axe_7"},
+		{"predicate": {"custom_model_data": 8}, "model": "cobalt/tools/axe/hammer1"}
     ]
 }

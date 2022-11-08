@@ -25,6 +25,12 @@
 		{"predicate": {"custom_model_data": 18}, "model": "cobalt/tools/sword/other_sword_7"},
 		{"predicate": {"custom_model_data": 19}, "model": "cobalt/tools/sword/other_sword_8"},
 		{"predicate": {"custom_model_data": 20}, "model": "cobalt/tools/sword/other_sword_9"},
-		{"predicate": {"custom_model_data": 21}, "model": "cobalt/tools/sword/netherite_sword_12"}
+		{"predicate": {"custom_model_data": 21}, "model": "cobalt/tools/sword/netherite_sword_12"},
+		{"predicate": {"custom_model_data": 22}, "model": "cobalt/tools/sword/netherite_sword_13"},
+		{"predicate": {"custom_model_data": 23}, "model": "cobalt/tools/sword/netherite_sword_14"},
+		{"predicate": {"custom_model_data": 24}, "model": "cobalt/tools/sword/netherite_sword_15"},
+		{"predicate": {"custom_model_data": 25}, "model": "cobalt/tools/sword/netherite_sword_16"},
+		{"predicate": {"custom_model_data": 26}, "model": "cobalt/tools/sword/netherite_sword_17"},
+		{"predicate": {"custom_model_data": 27}, "model": "cobalt/tools/sword/netherite_sword_18"}
     ]
 }
