@@ -1,0 +1,53 @@
+{
+    "providers": [
+		{
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:cobalt/icons/effects/air_essence.png",
+            "ascent": 272,
+            "height": 272,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:cobalt/icons/effects/earth_essence.png",
+            "ascent": 272,
+            "height": 272,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:cobalt/icons/effects/fire_essence.png",
+            "ascent": 272,
+            "height": 272,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:cobalt/icons/effects/water_essence.png",
+            "ascent": 272,
+            "height": 272,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:cobalt/icons/effects/numeric_0.png",
+            "ascent": 272,
+            "height": 272,
+            "chars": ["\uE100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:cobalt/icons/effects/numeric_1.png",
+            "ascent": 272,
+            "height": 272,
+            "chars": ["\uE101"]
+        }
+    ]
+}

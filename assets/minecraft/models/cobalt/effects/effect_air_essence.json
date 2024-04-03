@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobalt/effects/effect_frame",
+    "layer1": "cobalt/effects/air_essence"
+  }
+}

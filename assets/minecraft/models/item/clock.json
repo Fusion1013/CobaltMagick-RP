@@ -344,5 +344,10 @@
     {"predicate":{"custom_model_data":900004},"model":"cobalt/spells/spell_frame_utility"},
     {"predicate":{"custom_model_data":900005},"model":"cobalt/spells/spell_frame_static_projectile"},
     {"predicate":{"custom_model_data":900006},"model":"cobalt/spells/spell_frame_projectile"},
-    {"predicate":{"custom_model_data":900007},"model":"cobalt/spells/spell_frame_letter"}
+    {"predicate":{"custom_model_data":900007},"model":"cobalt/spells/spell_frame_letter"},
+
+    {"predicate":{"custom_model_data":1000001},"model":"cobalt/effects/effect_water_essence"},
+    {"predicate":{"custom_model_data":1000002},"model":"cobalt/effects/effect_earth_essence"},
+    {"predicate":{"custom_model_data":1000003},"model":"cobalt/effects/effect_fire_essence"},
+    {"predicate":{"custom_model_data":1000004},"model":"cobalt/effects/effect_air_essence"}
 ]}

@@ -124,6 +124,11 @@
       "cobalt/tracks/we_are_gods"
     ]
   },
+  "cobalt.music.so_say_we_all": {
+    "sounds": [
+      "cobalt/tracks/so_say_we_all"
+    ]
+  },
   "cobalt.brain": {
     "sounds":[
       "cobalt/effects/brain1",
